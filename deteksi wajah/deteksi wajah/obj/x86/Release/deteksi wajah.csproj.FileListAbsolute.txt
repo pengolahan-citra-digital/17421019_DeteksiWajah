@@ -1,0 +1,16 @@
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Release\deteksi wajah.exe
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Release\deteksi wajah.pdb
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Release\Emgu.CV.dll
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Release\Emgu.CV.UI.dll
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Release\Emgu.Util.dll
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Release\ZedGraph.dll
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Release\Emgu.CV.xml
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Release\Emgu.CV.UI.xml
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Release\Emgu.Util.xml
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Release\deteksi wajah.csproj.GenerateResource.Cache
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Release\deteksi wajah.exe
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Release\deteksi wajah.pdb
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Release\deteksi wajah.csprojResolveAssemblyReference.cache
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Release\Deteksi_wajah.Form1.resources

@@ -1,0 +1,14 @@
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Debug\deteksi wajah.exe
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Debug\deteksi wajah.pdb
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Debug\Emgu.CV.dll
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Debug\Emgu.CV.UI.dll
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Debug\Emgu.Util.dll
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Debug\ZedGraph.dll
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Debug\Emgu.CV.xml
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Debug\Emgu.CV.UI.xml
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\bin\Debug\Emgu.Util.xml
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Debug\deteksi wajah.csproj.GenerateResource.Cache
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Debug\deteksi wajah.exe
+C:\Users\M Farez Angga Retno\documents\visual studio 2010\Projects\deteksi wajah\deteksi wajah\obj\x86\Debug\deteksi wajah.pdb
